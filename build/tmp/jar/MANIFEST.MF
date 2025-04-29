@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: customspawnmod
+Specification-Vendor: yourname
+Specification-Version: 1
+Implementation-Title: simplemod
+Implementation-Version: 1.0
+Implementation-Vendor: yourname
+Implementation-Timestamp: 2025-04-29T16:32:44+0900
+

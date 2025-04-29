@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+logoFile="monkey.png"
+
+[[mods]]
+modId="customspawnmod"
+version="1.0"
+displayName="Custom Mob Spawner"
+description="mod for my one piece pack"
+authors="Yamioka"
+
+# Если мод зависит от других модов, добавьте:
+[[dependencies.customspawnmod]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.0,)"
+ordering="NONE"
+side="BOTH"
